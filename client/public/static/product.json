@@ -1,0 +1,665 @@
+
+[
+  {
+    "name": "Coffee Mug",
+    "img1": "/img/product/sustainability/coffee_mug_rice_husk(1).jpg",
+    "img2": "/img/product/sustainability/coffee_mug_rice_husk(1).jpg",
+    "images": [
+      { "src": "/img/product/sustainability/coffee_mug_rice_husk(1).jpg"},
+      {"src": "/img/product/sustainability/coffee_mug_rice_husk(2).jpg"},
+      {"src": "/img/product/sustainability/coffee_mug_rice_husk(3).jpg"}
+    ],
+    "mainPrice": "190",
+    "colors": [],
+    "category": ["Custom", "lamp","corporate"],
+    "tags": ["sustainable","Custom", "lamp","corporate"],
+    "brand": "ikea",
+    "stock": true,
+    "id": "ssh1",
+    "new": false,
+    "sale": false,
+    "features": [
+    "Made from Rice Husk and Coffee Husk",
+    "Available in many natural colors",
+    "Low carbon footprint",
+    "Customizable",
+    "Lightweight",
+    "Durable"
+  ],
+  "blurhash":"L6KBO100KURN?u00M_of00M_==kE"
+  },
+  
+  {
+    "name": "Bamboo Bottle",
+    "img1": "/img/product/sustainability/s02.png",
+    "img2": "/img/product/sustainability/s02.png",
+    "images": [
+      { "src": "/img/product/sustainability/s02.png" }
+    ],
+    "price": "230",
+    "mainPrice": "290",
+    "discount": "20",
+    "category": ["gent", "clothing", "jacket","corporate"],
+    "tags": ["sustainable","gent", "clothing", "jacket","corporate"],
+    "size": "L",
+    "brand": "nike",
+    "colors": ["white", "black"],
+    "stock": true,
+    "id": "ssh2",
+    "new": false,
+    "sale": false,
+    "features": [
+    "Natural bamboo finish",
+    "Customizable",
+    "Low carbon footprint",
+    "Tough on stains, odour, and bacteria",
+    "Lightweight",
+    "Durable"
+  ],
+  "blurhash":"L8KUG^0080t6.74nM{oJ00WB]NRi"
+
+  },
+
+  {
+    "name": "Tea Cup",
+    "img1": "/img/product/sustainability/teacup.png",
+    "img2": "/img/product/sustainability/teacup.png",
+    "images": [
+      { "src": "/img/product/sustainability/teacup.png" },
+      { "src": "/img/product/sustainability/teacup2.jpg" },
+      { "src": "/img/product/sustainability/teacup3.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["gent", "clothing", "tshart","corporate"],
+    "tags": ["sustainable","gent", "clothing", "tshart","corporate"],
+    "brand": "everlane",
+    "colors": ["gray", "black"],
+    "stock": true,
+    "id": "ssh3",
+    "size": "XL",
+    "new": false,
+    "sale": false,
+    "features": [
+    "Made from Rice Husk and Coffee Husk",
+    "Available in many natural colors",
+    "Low carbon footprint",
+    "Customizable",
+    "Lightweight",
+    "Durable"
+  ],
+  "blurhash":"L9Jklw00.At8_N4-D$s-00WVslM_"
+
+  },
+
+  {
+    "name": "Jute Bag",
+    "img1": "/img/product/sustainability/s06.png",
+    "img2": "/img/product/sustainability/s06.png",
+    "images": [
+      { "src": "/img/product/sustainability/s06.png" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["gent", "clothing", "tshart","corporate"],
+    "tags": ["sustainable","gent", "clothing", "tshart","corporate"],
+    "brand": "everlane",
+    "colors": ["white", "black"],
+    "stock": true,
+    "size": "M",
+    "id": "ssh4",
+    "features": [
+    "Low carbon footprint",
+    "Made from Jute",
+    "Customizable",
+    "Durable",
+    "Biodegradable",
+    "Versatile",
+    "Stylish"
+  ],
+    "blurhash":"LAJ*n=00t:V@.89FR4t600Rjrpay",
+    "weight":"25",
+    "carbon credit":"1263",
+    "water_amt":"0.018",
+    "carbonfootprint":"0.02"
+  },
+
+  {
+    "name": "Sipper",
+    "img1": "/img/product/sustainability/sipper1.png",
+    "img2": "/img/product/sustainability/sipper1.png",
+    "images": [
+      { "src": "/img/product/sustainability/sipper1.png" },
+      { "src": "/img/product/sustainability/sipper2.jpg" },
+      { "src": "/img/product/sustainability/sipper3.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket","corporate"],
+    "tags": ["sustainable","ladies", "clothing", "jacket","corporate"],
+    "brand": "gucci",
+    "size": "X",
+    "colors": ["white", "black"],
+    "stock": true,
+    "id": "ssh5",
+    "features": [
+    "Made from Rice Husk ",
+    "Low carbon footprint",
+    "Available in many designs and patterns",
+    "Customizable",
+    "Lightweight",
+    "Durable"
+  ],
+  "blurhash":"LCJH,T0J.TRP?b9ZIUoJ0eRin3kC"
+  },
+
+  {
+    "name": "Jute Folder",
+    "img1": "/img/product/sustainability/jutefolder.jpg",
+    "img2": "/img/product/sustainability/jutefolder.jpg",
+    "images": [
+      { "src": "/img/product/sustainability/jutefolder.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket","corporate"],
+    "tags": ["sustainable","ladies", "clothing", "jacket","corporate"],
+    "brand": "dior",
+    "size": "XXL",
+    "colors": ["gray", "black"],
+    "stock": true,
+    "id": "ssh6",
+    "features": [
+    "Made from Jute",
+    "Low carbon footprint",
+    "Customizable",
+    "Durable",
+    "Versatile",
+    "Stylish"
+  ],
+  "blurhash":"L4JZSgxa00j=8_WB?bof00ofy?M|"
+
+  },
+
+  {
+    "name": "Pen",
+    "img1": "/img/product/sustainability/pen.jpg",
+    "img2": "/img/product/sustainability/pen.jpg",
+    "images": [
+      { "src": "/img/product/sustainability/pen.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket","corporate"],
+    "tags": ["sustainable","ladies", "clothing", "jacket","corporate"],
+    "brand": "gucci",
+    "size": "X",
+    "colors": ["white", "black"],
+    "stock": true,
+    "id": "ssh7",
+    "features": [
+    "Made From recycled paper",
+    "Low carbon footprint",
+    "Pens with Embedded Seeds Available",
+    "Customizable",
+    "Long-lasting"
+  ],
+  "blurhash":"L3J[Fw00loX5_L00RPt600M{+bRO"
+
+  },
+
+  {
+    "name": "Wooden Diary",
+    "img1": "/img/product/sustainability/notebook.png",
+    "img2": "/img/product/sustainability/notebook.png",
+    "images": [
+      { "src": "/img/product/sustainability/notebook.png" },
+      { "src": "/img/product/sustainability/notebook2.jpg" },
+      { "src": "/img/product/sustainability/notebook3.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket","corporate"],
+    "tags": ["sustainable","ladies", "clothing", "jacket","corporate"],
+    "brand": "dior",
+    "size": "XXL",
+    "colors": ["gray", "black"],
+    "stock": true,
+    "id": "ssh8",
+    "features": [
+    "Made with Sustainable materials",
+    "Low carbon footprint",
+    "Customizable",
+    "Recyclable",
+    "Biodegradable",
+    "Variety of Sizes",
+    "Cost-effective"
+  ],
+  "blurhash":"LEJ*hu0Ku6r=%fD%RPj[0fWArCS4"
+  },
+
+  {
+    "name": "Pullover Hoodie",
+    "img1": "/img/product/Merchandise/2.png",
+    "img2": "/img/product/Merchandise/2.png",
+    "images": [
+      { "src": "/img/product/Merchandise/2.png" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket","merchandise"],
+    "tags": ["merchandise","ladies", "clothing", "jacket","merchandise"],
+    "colors": ["rad", "gray"],
+    "brand": "chanel",
+    "size": "XL",
+    "stock": true,
+    "id": "mh10",
+     "features": [
+    "Customizable",
+    "Made from soft and comfortable materials",
+    "Available in a variety of styles, colors, and designs.",
+    "Available in a range of sizes and fits.",
+    "Kangaroo Pocket, Hood for added warmth and protection"
+  ],
+  "blurhash":"L7JZxIoe00ae9Hay-.j[01fQ~oj["
+  },
+
+  {
+    "name": "Zip Hoodie",
+    "img1": "/img/product/Merchandise/zipper1.jpg",
+    "img2": "/img/product/Merchandise/zipper1.jpg",
+    "images": [
+      { "src": "/img/product/Merchandise/zipper1.jpg"},
+      {"src": "/img/product/Merchandise/zipper2.jpg"}
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing","merchandise"],
+    "tags": ["merchandise","ladies", "clothing","merchandise"],
+    "colors": ["gray", "black"],
+    "brand": "gucci",
+    "size": "L",
+    "stock": true,
+    "id": "mh11",
+    "new": false,
+    "sale": false,
+     "features": [
+    "Customizable",
+    "Made from soft and comfortable materials",
+    "With Zipper Closure",
+    "Available in a variety of styles, colours, and designs.",
+    "Available in a range of sizes and fits.",
+    "Kangaroo Pocket, Hood for added warmth and protection."
+  ],
+  "blurhash":"LbNvlUe.?^ozV@aytRof%#fkMxe."
+  },
+
+  {
+    "name": "Tshirt",
+    "img1": "/img/product/Merchandise/tshirt1.jpg",
+    "img2": "/img/product/Merchandise/tshirt1.jpg",
+    "images": [
+      { "src": "/img/product/Merchandise/tshirt1.jpg" },
+      { "src": "/img/product/Merchandise/tshirt3.jpg" }
+    ],
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing","merchandise"],
+    "tags": ["merchandise","ladies", "clothing","merchandise"],
+    "colors": ["gray", "black"],
+    "brand": "dior",
+    "stock": true,
+    "size": "M",
+    "id": "mh12",
+    "sale": false,
+     "features": [
+    "Customizable",
+    "Comfortable Fit",
+    "Versatile and durable",
+    "Breathable,soft and gentle.",
+    "Stylish and affordable"
+  ],
+  "blurhash":"L41;;.ZLIbkXt:k@RPbHVukXk7af"
+  },
+
+  {
+    "name": "Varsity Jacket",
+    "img1": "/img/product/Merchandise/6.jpg",
+    "img2": "/img/product/Merchandise/6.jpg",
+    "images": [
+      { "src": "/img/product/Merchandise/6.jpg" }
+    ],
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing","merchandise"],
+    "tags": ["merchandise","ladies", "clothing","merchandise"],
+    "colors": ["red", "black"],
+    "brand": "chanel",
+    "stock": true,
+    "size": "XL",
+    "id": "mh13",
+    "new": false,
+     "features": [
+    "Customizable design",
+    "Timeless fashion",
+    "Comfortable fit",
+    "Durable materials"
+  ],
+  "blurhash":"LVMHDOs,_Nbd9Ff6WBaz?cWXIUn~"
+  },
+  {
+    "name": "Sweatshirt",
+    "img1": "/img/product/Merchandise/sweatshirt.jpg",
+    "img2": "/img/product/Merchandise/sweatshirt.jpg",
+    "images": [
+      { "src": "/img/product/Merchandise/sweatshirt.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing","merchandise"],
+    "tags": ["merchandise","ladies", "clothing","merchandise"],
+    "colors": ["gray", "black","red"],
+    "size": "XL",
+    "brand": "gucci",
+    "stock": true,
+    "id": "mh14",
+     "features": [
+    "Customizable design",
+    "Breathable and comfortable material",
+    "Stylish",
+    "Versatile"
+  ],
+  "blurhash":"LzQvwLj[_4oMxujuRjay%NfQInay"
+  },
+  {
+    "name": "Sportswear",
+    "img1": "/img/product//Merchandise/sport_tee1.jpg",
+    "img2": "/img/product/Merchandise/sport_tee1.jpg",
+    "images": [
+      { "src": "/img/product/Merchandise/sport_tee1.jpg" },
+      { "src": "/img/product/Merchandise/sport_tee2.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing","merchandise"],
+    "tags": ["merchandise","ladies", "clothing","merchandise"],
+    "colors": ["black"],
+    "brand": "gucci",
+    "size": "XXL",
+    "stock": true,
+    "id": "mh15",
+     "features": [
+    "Customizable",
+    "Breathable and Moisture-wicking material",
+    "Lightweight",
+    "Durable"
+  ],
+  "blurhash":"L14.#]bI00ogIUfR%Nf601j[~pay"
+  },
+  {
+    "name": "Organic Tshirt",
+    "img1": "/img/product/Merchandise/1.jpg",
+    "img2": "/img/product/Merchandise/1.jpg",
+    "images": [
+      { "src": "/img/product/Merchandise/1.jpg" },
+      { "src": "/img/product/Merchandise/2.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["gent", "clothing","merchandise"],
+    "tags": ["gent", "clothing","merchandise"],
+    "colors": ["green", "blue"],
+    "size": "L",
+    "brand": "gent",
+    "stock": true,
+    "id": "mh16",
+     "features": [
+    "Made with Sustainable materials",
+    "More durable compared to ordinary cotton t-shirts",
+    "With Anti-microbial and anti-fungal properties",
+    "UV Protection",
+    "Breathable fabric",
+    "Customizable"
+  ],
+  "blurhash":"LAKxJ4%L},EN?FR*Irs:-OR-I]xW"
+  },
+  {
+    "name": "Onboarding kit",
+    "img1": "/img/product/MC/onboarding.jpeg",
+    "img2": "/img/product/MC/onboarding.jpeg",
+    "images": [
+      { "src": "/img/product/MC/onboarding.jpeg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["gent", "clothing","corporate"],
+    "tags": ["marketing-collateral","gent", "clothing","corporate"],
+    "colors": ["green", "white"],
+    "size": "M",
+    "brand": "asos",
+    "stock": true,
+    "id": "mch18",
+     "features": [
+    "Comprehensive onboarding kit for new employees or customizable conference kit for attendees",
+    "Includes personalized welcome message",
+    "Branded company swag, such as pens, mugs, and t-shirts, to make new hires feel like part of the team",
+    "Fully Customizable",
+    "Set new employees up for success from day one"
+  ],
+  "blurhash":"LbM%.gt7_4IU~qbID*xZxvRjV?t7"
+  },
+  {
+    "name": "Memnto",
+    "img1": "/img/product/MC/momento.jpg",
+    "img2": "/img/product/MC/momento.jpg",
+    "images": [
+      { "src": "/img/product/MC/momento.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["gent", "clothing","corporate"],
+    "tags": ["marketing-collateral","gent", "clothing","corporate"],
+    "colors": ["white", "black"],
+    "brand": "nike",
+    "size": "XXL",
+    "stock": true,
+    "id": "mch19",
+     "features": [
+    "Customizable",
+    "High quality",
+    "Available in various sizes and dimensions"
+  ],
+  "blurhash":"LOOMvnM_?boJ~pxuIUR*IUM{R*s:"
+  },
+  {
+    "name": "Badge",
+    "img1": "/img/product/MC/badge.jpg",
+    "img2": "/img/product/MC/badge.jpg",
+    "images": [
+      { "src": "/img/product/MC/badge.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["gent", "clothing","corporate"],
+    "tags": ["marketing-collateral","gent", "clothing","corporate"],
+    "colors": ["green", "blue"],
+    "brand": "asos",
+    "stock": true,
+    "size": "L",
+    "id": "mch20",
+     "features": [
+    "Customizable",
+    "High quality",
+    "Available in various sizes"
+  ],
+  "blurhash":"L68@%+t+0uMKyZayQ,of5KRQ^XyB"
+  },
+  {
+    "name": "Spiral Notebook",
+    "img1": "/img/product/MC/spiral_notebook.png",
+    "img2": "/img/product/MC/spiral_notebook.png",
+    "images": [
+      { "src": "/img/product/MC/spiral_notebook.png" }
+    ],
+    "price": "230",
+    "mainPrice": "290",
+    "discount": "20",
+    "category": ["gent", "clothing", "jacket","corporate"],
+    "tags": ["marketing-collateral","gent", "clothing", "jacket","corporate"],
+    "size": "L",
+    "brand": "nike",
+    "colors": ["white", "black"],
+    "stock": true,
+    "id": "mch21",
+     "features": [
+    "Customizable",
+    "High quality Paper",
+    "Variety of Sizes",
+    "Wide Ruling Options",
+    "Versatile"
+  ],
+  "blurhash":"LEF#Elj?}moLjsWCoet6=ra}Ekj@"
+  },
+  {
+    "name": "Calendar",
+    "img1": "/img/product/MC/calender.png",
+    "img2": "/img/product/MC/calender.png",
+    "images": [
+      { "src": "/img/product/MC/calender.png"}
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["gent", "clothing", "tshart","corporate"],
+    "tags": ["marketing-collateral","gent", "clothing", "tshart","corporate"],
+    "brand": "everlane",
+    "colors": ["gray", "black"],
+    "stock": true,
+    "id": "mch22",
+    "size": "XL",
+     "features": [
+    "Customizable",
+    "High quality",
+    "Variety of Styles and sizes",
+    "Different Layouts",
+    "Versatile"
+  ],
+  "blurhash":"L5L}ELxu00In009FDjS0sqRj_MtQ"
+  },
+  {
+    "name": "Bottle",
+    "img1": "/img/product/MC/bottle.png",
+    "img2": "/img/product/MC/bottle.png",
+    "images": [
+      { "src": "/img/product/MC/bottle.png" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket","corporate"],
+    "tags": ["marketing-collateral","ladies", "clothing", "jacket","corporate"],
+    "brand": "dior",
+    "size": "XXL",
+    "colors": ["gray", "black"],
+    "stock": true,
+    "id": "mch23",
+     "features": [
+    "Customizable",
+    "High quality and Non-Toxic",
+    "Variety of Styles and sizes",
+    "Leak-Proof Design",
+    "Durable"
+  ],
+  "blurhash":"LHJ[I,~q_3j[IUayM{t7?bayM{fQ"
+  },
+  {
+    "name": "Cap",
+    "img1": "/img/product/MC/cap.png",
+    "img2": "/img/product/MC/cap.png",
+    "images": [
+      { "src": "/img/product/MC/cap.png" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket","corporate"],
+    "tags": ["marketing-collateral","ladies", "clothing", "jacket","corporate"],
+    "colors": ["rad", "gray"],
+    "brand": "chanel",
+    "size": "XL",
+    "stock": true,
+    "id": "mch26",
+     "features": [
+    "Customizable",
+    "High quality",
+    "Durable",
+    "Comfortable Fit",
+    "Moisture Wicking",
+    "Available in a variety of style"
+  ],
+  "blurhash":"LJJjbskD00nhxGogf5V@8wjF?^WX"
+  },
+  {
+    "name": "Mug",
+    "img1": "/img/product/MC/mug.png",
+    "img2": "/img/product/MC/mug.png",
+    "images": [
+      { "src": "/img/product/MC/mug.png" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket"],
+    "tags": ["marketing-collateral","ladies", "clothing", "jacket"],
+    "colors": ["rad", "gray"],
+    "brand": "chanel",
+    "size": "XL",
+    "stock": true,
+    "id": "mch25",
+     "features": [
+    "Customizable",
+    "Microwave Safe",
+    "Comfortable Grip"
+  ],
+  "blurhash":"LHHnTr%100IUxuj[M{ax4TWB_NtR"
+  },
+  {
+    "name": "Smart Vacuum flask",
+    "img1": "/img/product/MC/smartflask.jpg",
+    "img2": "/img/product/MC/smartflask.jpg",
+    "images": [
+      { "src": "/img/product/MC/smartflask.jpg" }
+    ],
+    "price": "230",
+    "mainPrice": "190",
+    "discount": "20",
+    "category": ["ladies", "clothing", "jacket", "corporate"],
+    "tags": ["marketing-collateral","ladies", "clothing", "jacket","corporate"],
+    "colors": ["rad", "gray"],
+    "brand": "chanel",
+    "size": "XL",
+    "stock": true,
+    "id": "mch24",
+     "features": [
+    "Vacuum Insulated Tumbler ",
+    "With Temperature Display",
+    "Customizable",
+    "High quality"
+  ],
+  "blurhash":"LEJ*xHD%?bM{~qM{IUayD%ofRPt7"
+  }
+]

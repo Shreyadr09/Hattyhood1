@@ -1,0 +1,16 @@
+hattyhood.com, www.hattyhood.com {
+	log {
+		output file /var/log/access.log
+	}
+
+	handle_path /api/* {
+		reverse_proxy api:4000
+	}
+	handle_path /customisation/* {
+		reverse_proxy customisation:5000
+	}
+
+	handle {
+		reverse_proxy client:3000
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "sliders": [
+    {
+      "bgImage": "/img/slider/hattyhood.png"
+    },
+    {
+      "bgImage": "/img/slider/HeroSection.png"
+    }
+  ],
+  "announcement": [
+    "/img/banner/banner-1/banner1.jpg",
+    "/img/banner/banner-1/banner2.jpg",
+    "/img/banner/banner-1/banner3.jpg"
+  ],
+  "upcomingProduct": {
+    "img": "/img/bg/bg.jpg",
+    "map": ["Ted Baker", "Ted Baker"]
+  }
+}

@@ -1,0 +1,46 @@
+name: Hattyhood - deployment
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Create caddy_data
+      run: docker volume create --name=caddy_data
+      
+    - name: Build the docker_compose
+      run: docker-compose up -d --build
+
+  Deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2 
+      - name: Deploy in EC2
+        env:
+            PRIVATE_KEY: ${{ secrets.AWS_PRIVATE_KEY  }}
+            HOSTNAME : ${{ secrets.HOSTNAME  }}
+            USER_NAME : ${{ secrets.USER_NAME  }}
+            token: ${{ secrets.PAT_TOKEN }}
+            
+        run: |
+          echo "$PRIVATE_KEY" > private_key && chmod 600 private_key
+          ssh -o StrictHostKeyChecking=no -i private_key ${USER_NAME}@${HOSTNAME} '
+            sudo su &&
+            cd ~/Hattyhood &&
+            sudo docker-compose down &&
+            git config --global user.name Shashankmallibhat &&
+            git config --global user.email Shashankmallibhat@gmail.com &&
+            git checkout master &&
+            git fetch --all &&
+            git reset --hard origin/master &&
+            git pull origin master &&
+            sudo docker-compose up -d --build 
+            '

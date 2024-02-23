@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Hattyhood</title>
+  <style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>            
+  <p>Your Website(www.hattyhood.com) contact form response is </p>
+  <table>
+  <tr>
+    <th>Details</th>
+    <th>Answers</th>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td>{{name}}</td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>{{email}}</td>
+  </tr>
+  <tr>
+    <td>Phone Number</td>
+    <td>{{phoneNumber}}</td>
+  </tr>
+  <tr>
+    <td>Message</td>
+    <td>{{message}}</td>
+  </tr>
+  
+</table>
+<p>Regards,</p>
+<p>{{email}}</p>
+</body>
+</html>

@@ -1,0 +1,1410 @@
+{
+  "blogs": [
+    {
+      "id": 9,
+      "img": "/img/blog/newblog_9.png",
+      "title": "🌱Collaboration Beyond Brandifying: Pioneers of Precision🌱",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "🎉 We are thrilled to announce a dynamic partnership between HattyHood and VECTOR NDT & ZCHEM! 🤝 Our exceptional offerings and their innovative technology are coming together to create a powerful synergy. HattyHood’s commitment to crafting sustainable and bespoke products sustainability aligns seamlessly with VECTOR NDT & ZCHEM's values and offerings. 🍃 🌍",
+            "💼 VECTOR NDT & ZCHEM is renowned for its cutting-edge solutions in Magnetic Particle Inspection & Liquid Penetrant Inspection Techniques. Their dedication to quality and excellence is evident through their world-class manufacturing facility.",
+            "🚀By integrating our sustainable products with their industry-leading solutions, we're not just collaborating; we're brandifying success! and is a testament to our shared commitment to pushing boundaries and delivering exceptional value to clients.🌐",
+            "🌟 Our shared values of sustainability, innovation, and excellence will undoubtedly create a lasting impact on the industries we serve."
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 8,
+      "img": "/img/blog/newblog_8.png",
+      "title": "Hattyhood takes pride in collaborating with Selco Foundation in a heartwarming endeavor that's sowing the seeds of a greener future! 🤝✨",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "Introducing: The Millet Magic Workshop for Rural Heroes! 🍲\n🏞 Cultivating Change in Our Villages:\nWhen you step into the world of millets and sustainable solutions, you're nurturing not only your land but also the sustainable legacy of our villages.",
+            "🌿 Join Us in Sowing Sustainability:\nCome, be a part of the Millet Magic Workshop, and harvest knowledge that reaps benefits for generations. Explore Hattyhood's collection of sustainable products that honor rural values and traditions.",
+            "Let's empower our villages with the wisdom of millets and the embrace of sustainability. Together, we're turning seeds of change into fields of progress. 💪 🌍"
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+    
+    {
+      "id": 7,
+      "img": "/img/blog/newblog_7.jpg",
+      "title": "🚀 Elevating Possibilities: HattyHood Joins NVIDIA Inception! 🚀",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "The excitement is real as we proudly announce HattyHood's selection for the prestigious NVIDIA Inception program! 💫",
+            "NVIDIA's commitment to innovation and transformative technologies resonates seamlessly with HattyHood's own vision.🤝 Our collaboration with the NVIDIA Inception program marks the realization of a cherished dream. Their pioneering strides in visual computing, AI, and more aligns perfectly with our mission to reshape the realm of possibilities & we’re determined to harness this into our platform, & software to enhance the personalized experience we offer, ensuring that every interaction is seamless, efficient, and tailored to the individual needs of our users.🌿",
+            "This achievement serves as an affirmation that dedication truly paves the way to exceptional opportunities.🎉"
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 6,
+      "img": "/img/blog/newblog_6.png",
+      "title": "HATTYHOOD Proudly Sponsors \"Nexus: Nurturing the Next Generation\".",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "We are delighted to announce that HATTYHOOD proudly sponsored the prestigious \"NexUS: Nurturing the Next Generation\" event, organized by BMSCE IEEE Women in Engineering. The occasion served as an exceptional platform for networking, fostering camaraderie among accomplished women speakers, and engaging in insightful panel discussions.💫",
+            "In our commitment to sustainability♻, we provided the club with an array of thoughtfully curated, eco-friendly products that exemplified our dedication to promoting a circular economy🌿 . These customized products played a vital role in enhancing the club’s unique branding and image. The event stood out, leaving a profound and thought-provoking impression on its attendees.💚",
+            "As we reflect on this remarkable collaboration, HATTYHOOD takes immense pride in contributing to the club's journey. Together, we envision a future where sustainability and innovation unite to shape a better world. 💪🌏"
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 5,
+      "img": "/img/blog/newblog_5.png",
+      "title": "Empowering the Next Gen: Aayushi Singh - Our Trailblazing CEO!",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "On #InternationalWIEDay, BMSCE IEEE Women in Engineering, hosted NexUS: Nurturing the Next Generation, a transformative women's summit. This holistic event provided a platform for young women to interact, explore their dreams, and gain invaluable insights for a successful future. 💫",
+            "🎤 Amidst an extraordinary lineup of successful women from diverse industries, our dynamic CEO, Aayushi Singh, stole the spotlight, igniting hearts with her passion for entrepreneurship and sustainability.🌿 She showcased Hattyhood's inspiring journey, driving positive industry change. 💚",
+            "🎯 From introducing Hattyhood's mission to encouraging eco-friendly practices, Aayushi's powerful talk resonated with the audience, inspiring them to embrace their aspirations and pursue their goals with unwavering determination. 💚"
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 4,
+      "img": "/img/blog/newblog_4.png",
+      "title": "Samskruthi 2023: A Celebration of Girl Power",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "The three-day inter-collegiate fest Samskruthi 2023, organized by BMS College of Commerce and Management, V V Puram, and BMS Evening College of Arts and Commerce, Basavanagudi, Bengaluru from 7th to 9th July 2023. The fest was dedicated to the cause of \"Save Girl Child\", and featured a variety of events that highlighted the talents and achievements of young talent.",
+            "Some of the events that were held at Samskruthi 2023 included: ",
+            "• Mock stock: A simulated stock market trading competition that gave students the opportunity to learn about the stock market and how to invest. ",
+            "• The Enact: A dumb charades competition that tested the participants' acting skills and creativity. This event was a lot of fun and it showcased the participants' creativity and ability to think on their feet",
+            "• Danspiration: A dance competition that showcased the talents of young women from across the city. This event was a visual feast and it was inspiring to see the participants' passion for dance.",
+            "• 100 Mile: A start-up competition that challenged students to come up with innovative business ideas. This event was a great way to encourage entrepreneurship. ",
+            "• Hum and Hunch: A music trivia competition that tested the participants' knowledge of popular songs. ",
+            "• Chucklesome: A mad ad competition that challenged students to create humorous commercials. This event was a lot of fun and it was a great way to showcase the participants' creativity and sense of humor. ",
+            "• Vogue Alley: A fashion show that featured the latest trends in women's clothing. It was inspiring to see the participants' sense of style. ",
+            "The fest was also graced by the presence of some prominent artists, including Vidya Balan, Usha Uthup, and ALL OK who also performed at the fest. Their performances were a highlight of the fest and they helped to raise awareness about the importance of girl child education and empowerment.",
+            "In addition to the events and performances, Samskruthi 2023 also featured a number of sustainable initiatives. For example, the organizers partnered with Hattyhood to provide sustainable corporate gifting options to dignitaries. Hattyhood supplied 100 bamboo bottles, jute bags, folders, and bamboo pens, which were all made from eco-friendly materials. This initiative helped to promote the importance of sustainability and was appreciated by the guests. It was a great way to reduce the environmental impact of the fest.",
+            "Samskruthi 2023 was a successful event that brought together talent from across the city to celebrate their talents and achievements. The fest also raised awareness about the importance of girl child education and empowerment. It was a truly memorable event and it is sure to be remembered for years to come."
+          ],
+          "blockquote": {
+            "p": "The greatest threat to our planet is the belief that someone else will save it.",
+            "footer": "- Robert Kennedy Jr."
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi4 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi100 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi6 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 3,
+      "img": "/img/blog/newblog_3.png",
+      "title": "HATTYHOOD X BGS NANDI RUN 2023",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "Hattyhood, a custom merchandise and gifting company that aims to promote sustainable and eco-friendly practices is proud to partner with SJCIT to support the BGS Nandi Run 2023. The run was held by the SJCIT’s Department of physical education and Sports on July 22nd at 6 AM at their campus in Chickballapur, India.",
+            "The BGS Nandi Run is an event that aims to promote environmental awareness and sustainability. This year's run was themed Go Green, Breathe Clean. Participants were encouraged to run or walk the course to spread awareness & protect the environment.",
+            "Hattyhood provided the customized jerseys for the run which were printed with the event logo and the message Go Green, Breathe Clean. The t-shirts were a hit with the participants, and they helped to raise awareness about the importance of environmental protection.The total prize money was worth 40,000 INR and was awarded to the top finishers in each category. ",
+            "Hattyhood is proud to have partnered with SJCIT to support the BGS Nandi Run 2023. The event was a great success and helped raise awareness about the importance of environmental protection. Hattyhood is committed to promoting sustainable and eco-friendly practices, and we are proud to support events like the BGS Nandi Run.",
+            "By partnering with SJCIT's BGS Nandi Run 2023, we were able to help raise awareness about the importance of environmental protection and sustainability. We are committed to continuing to support events like this one, and we hope to inspire others to make a difference.",
+            "If you are interested in learning more about Hattyhood or our products, please visit our website at www.hattyhood.com."
+          ],
+          "blockquote": {
+            "p": "We do not inherit the Earth from our ancestors, we borrow it from our children.",
+            "footer": "- Native American proverb"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi2 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi3 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["Lifestyle"]
+    },
+
+    {
+      "id": 2,
+      "img": "/img/blog/newblog_2.png",
+      "title": "The required switch to Sustainable Practices in India's Corporate Gifting Industry",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "Corporate giving, for which businesses annually spend billions of dollars, has become a crucial component of Indian corporate culture as a way to express gratitude and foster relationships. According to Forbes, over 80% of gifting in India is expected to be corporate, with the gifting market expected to reach $84 billion by 2024. Corporate purchasing teams must review their procedures, given the industry's substantial reliance on unsustainable machine-printed plastic products, due to the lack of focus on sustainability and green initiatives in this multi-billion dollar market.",
+            "1. The UN Sustainable Development Goals suggest corporations need to take action on responsible consumption and production, promoting sustainable practices and reducing waste.",
+            "2. These products are not only harmful to the environment but also lack the personal touch that gifting should represent.",
+            "3. Sustainability and green initiatives can be prioritized by working with suppliers who offer eco-friendly products and encouraging the use of reusable and recyclable materials.",
+            "4. It helps reduce the environmental impact of the practice and also reflects positively on the company's image and values. It can also help build stronger relationships with clients and partners who share the same values and priorities.",
+            "5. By making sustainability, circular economy, and green initiatives a mandate in choosing gifts for partners, clients, and employees, corporate purchasing teams can make a positive impact on the environment and economy while also adding a personal touch to every gift, making it more meaningful and memorable.",
+            "6. Furthermore, when a company is perceived as taking steps to preserve the planet leads to a positive impact on its brand image and long-term profitability.",
+            "What qualifies as a sustainable gift?",
+            "• Gifts made from eco-friendly, recycled, or repurposed materials",
+            "• Items that include locally sourced or organic materials",
+            "• Items with alternative materials or those made from certified sustainable processes",
+            "• Items that can help eliminate single-use plastics",
+            "• Products that have achieved certification for sustainable industry standards",
+            "The best sustainable corporate gifts meet the following criteria:",
+            "1. Reinforce your company values",
+            "2. Reflect on the quality of your relationship",
+            "3. Adhere to company policy",
+            "4. Are personalized",
+            "5. Are artfully presented",
+            "6. Are useful"
+          ],
+          "blockquote": {
+            "p": "Sustainable development is the development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+            "footer": "- Gro Harlem Brundtland"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi18 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi19 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi20 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi1 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["Lifestyle", "Branding"]
+    },
+
+    {
+      "id": 1,
+      "img": "/img/blog/newblog_1.png",
+      "title": "Sustainability is no longer about doing less harm, it's about doing more good.",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "Making informed decisions to encourage sustainable living is the first step in being environmentally conscious. It involves forming routines that can aid in resource conservation, carbon footprint reduction, and environmental protection. It's time to say goodbye to disposable, fast corporate gifting and welcome to giving that is socially and environmentally responsible. As companies increasingly recognize the importance of sustainable practices, embracing eco-friendly gifting solutions becomes a natural extension of their commitment to the environment. Corporate giving option that benefits your clients and employees. We offer a wide variety of imaginative solutions that are sustainable and appropriate for all situations and price ranges. Customers and staff may easily lessen their environmental footprint while still getting a fantastic product when you offer sustainable products. Your company's environmental effect is lessened by using our environmentally friendly goods. These products range from drinkware, pencils, and customizable clothing. In the last ten years, there has been a significant movement in B2C giving towards ethical and environmentally friendly goods. Consumers and MNCs are now choosing to give gifts with a purpose.",
+            "Why should an organization opt for sustainable gifting options?",
+            "1. Express your company's active commitment to sustainability and the future of the earth.",
+            "2. Reduce your carbon and waste footprint.",
+            "3. Raise morale and increase work satisfaction among employees.",
+            "4. Embrace eco-friendly gifting solutions to encourage sustainable living.",
+            "5. Lessen their environmental footprint while still getting a fantastic product.",
+            "6. Making informed decisions in being environmentally conscious while hitting the brief.",
+            "7. It can also be considered a part of CSR activity that involves the assessment on the basis of customers, suppliers, environment, communities, and employees, and using our services will check all of the above boxes.",
+            "8. In corporate gifting 40% of waste is generated as items and packaging ends up in landfills.",
+            "9. If u wish not to add to the 146 million metric tonnes of waste generated under this category every year.",
+            "10. Extend your branding and brand communication."
+          ],
+          "blockquote": {
+            "p": "Sustainability is no longer about doing less harm, it's about doing more good.",
+            "footer": "- Jochen Zeitz"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/newblog_1.png",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "In the para of cleaninsing hot shower bath in blog.json in blog1"
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "in blog.json after setting mood in blog1"
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi1 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi2 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi3 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi4 ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["Lifestyle", "Branding"]
+    }
+  ],
+
+  "mas": [
+    {
+      "id": 9,
+      "img": "/img/blog/newblog_9.png",
+      "title": "🌱Collaboration Beyond Brandifying: Pioneers of Precision🌱",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BWe are thrilled to announce a dynamic partnership between HattyHood and VECTOR NDT & ZCHEM! 🤝 Our exceptional offerings and their innovative technology are coming together to create a powerful synergy",
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo consequat.\r\n                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat\r\n                                        nulla pariatur. Excepteur sint\r\n                                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt."
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 8,
+      "img": "/img/blog/newblog_8.png",
+      "title": "🌱Nourishing Sustainability: A Hattyhood-Selco Foundation Initiative🌾",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BHattyhood takes pride in collaborating with Selco Foundation in a heartwarming endeavor that's sowing the seeds of a greener future! 🤝✨",
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo consequat.\r\n                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat\r\n                                        nulla pariatur. Excepteur sint\r\n                                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt."
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 7,
+      "img": "/img/blog/newblog_7.jpg",
+      "title": "🚀 Elevating Possibilities: HattyHood Joins NVIDIA Inception! 🚀",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BThe excitement is real as we proudly announce HattyHood's selection for the prestigious NVIDIA Inception program! 💫",
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo consequat.\r\n                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat\r\n                                        nulla pariatur. Excepteur sint\r\n                                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt."
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 6,
+      "img": "/img/blog/newblog_6.png",
+      "title": "HATTYHOOD Proudly Sponsors \"Nexus: Nurturing the Next Generation\".",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BWe are delighted to announce that HATTYHOOD proudly sponsored the prestigious \"NexUS: Nurturing the Next Generation\" event, organized by BMSCE IEEE Women in Engineering.",
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo consequat.\r\n                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat\r\n                                        nulla pariatur. Excepteur sint\r\n                                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt."
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 5,
+      "img": "/img/blog/newblog_5.png",
+      "title": "Empowering the Next Gen: Aayushi Singh - Our Trailblazing CEO!",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BOn #InternationalWIEDay, BMSCE IEEE Women in Engineering, hosted NexUS: Nurturing the Next Generation, a transformative women's summit. This holistic event provided a platform for young women to interact, explore their dreams, and gain invaluable insights for a successful future. 💫",
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo consequat.\r\n                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat\r\n                                        nulla pariatur. Excepteur sint\r\n                                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt."
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 4,
+      "img": "/img/blog/newblog_4.png",
+      "title": "Samskruthi 2023: A Celebration of Girl Power",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BThe three-day inter-collegiate fest Samskruthi 2023, organized by BMS College of Commerce and Management, V V Puram, and BMS Evening College of Arts and Commerce, Basavanagudi, Bengaluru from 7th to 9th July 2023. "
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["fashion"]
+    },
+
+    {
+      "id": 3,
+      "img": "/img/blog/newblog_3.png",
+      "title": "Hattyhood X BGS Nandi Run 2023",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BHattyhood is proud to have partnered with SJCIT to support the BGS Nandi Run 2023. The event was a great success and helped raise awareness about the importance of environmental protection.",
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo consequat.\r\n                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat\r\n                                        nulla pariatur. Excepteur sint\r\n                                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt."
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["Lifestyle"]
+    },
+
+    {
+      "id": 2,
+      "img": "/img/blog/newblog_2.png",
+      "title": "The required switch to Sustainable Practices in India's Corporate Gifting Industry.",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BCorporate giving, for which businesses annually spend billions of dollars, has become a crucial component of Indian corporate culture as a way to express gratitude and foster relationships.",
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo consequat.\r\n                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat\r\n                                        nulla pariatur. Excepteur sint\r\n                                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt."
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["Lifestyle", "Branding"]
+    },
+
+    {
+      "id": 1,
+      "img": "/img/blog/newblog_1.png",
+      "title": "Sustainability is no longer about doing less harm, it's about doing more good.",
+      "des": {
+        "div": {
+          "class": "post-text mb-20",
+          "p": [
+            "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                        incididunt ut labore et dolore magna\r\n                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                        aliquip ex ea commodo.",
+            "BMaking informed decisions to encourage sustainable living is the first step in being environmentally conscious. It involves forming routines that can aid in resource conservation and carbon footprint reduction.\r\n"
+          ],
+          "blockquote": {
+            "p": "hi ipsum dolor sit amet, consectetur\r\n                                            cing elit, sed do eiusmod tempor.",
+            "footer": "- Rosalina Pong"
+          },
+          "div": [
+            {
+              "class": "blog-inner-img mb-30 mt-30",
+              "img": {
+                "src": "/img/blog/b2.jpg",
+                "alt": "blog image"
+              }
+            },
+            {
+              "class": "inner-content",
+              "h4": "A cleansing hot shower or bath",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            },
+            {
+              "class": "inner-content",
+              "h4": "Setting the mood with incense",
+              "p": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\r\n                                            incididunt ut labore et dolore magna\r\n                                            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\r\n                                            aliquip ex ea commodo consequat.\r\n                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu\r\n                                            fugiat nulla pariatur. Excepteur\r\n                                            sint\r\n                                            occaecat cupidatat non proident, sunt in culpa qui officia."
+            }
+          ]
+        }
+      },
+      "comments": [
+        {
+          "author": "Karon Balina",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments1.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "replay": [
+            {
+              "author": "Karon Balina",
+              "date": "19TH MAY 2018",
+              "profilePic": "/img/blog/details/comments1.png",
+              "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+          ]
+        },
+        {
+          "author": "Arista Williamson",
+          "date": "19TH MAY 2018",
+          "profilePic": "/img/blog/details/comments2.png",
+          "text": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ],
+      "author": {
+        "name": "MD. Salim Rana",
+        "img": "/img/blog/details/author.png",
+        "bio": "hi ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "social": [
+          { "name": "facebook-f", "link": "#" },
+          { "name": "twitter", "link": "#" },
+          { "name": "instagram", "link": "#" },
+          { "name": "google-plus-g", "link": "#" },
+          { "name": "vimeo-v", "link": "#" }
+        ]
+      },
+      "date": " September 15, 2018 ",
+      "tags": ["organic", "Foods", "tasty"],
+      "categorie": ["Lifestyle", "Branding"]
+    }
+  ]
+}

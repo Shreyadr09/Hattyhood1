@@ -1,0 +1,558 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    padding-top: 60px;
+    overflow-x: hidden;
+}
+
+/* navbar styling*/
+nav {
+    background-color: #FFF;
+    height: 84px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+    box-shadow: 5px 0px 10px 0px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.logo-container .logo {
+    max-width: 200px;
+    height: 30.81px;
+}
+
+/* .logo-container .mobile-logo{
+    display: none;
+} */
+.header-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.text-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.page-head {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: Rubik;
+    color: #10111e;
+    text-align: center;
+
+    width: 203px;
+    height: 17px;
+}
+
+.right-icons {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+.ellipse-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #fff1f0;
+    margin-right: 10px;
+}
+
+.ellipse-div:last-child {
+    margin-right: 0;
+}
+
+.ellipse-div a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+}
+
+/* If the phone icon has a specific font size that you need to adjust */
+.ellipse-div a i {
+    font-size: 20px;
+    /* Adjust the size as needed */
+}
+
+.fa-phone {
+    font-size: 20px;
+    margin-left: 13px;
+    margin-bottom: 8px;
+}
+
+.fa-user {
+    margin-left: 14px;
+    margin-bottom: 8px;
+}
+
+.ellipse-div a span {
+    font-size: 29px;
+}
+
+
+.email-container {
+    position: relative;
+    display: inline-block;
+}
+
+.email-box {
+    display: none;
+    position: absolute;
+    bottom: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #f9f9f9;
+    color: #333333;
+    font-size: 12px;
+    padding: 3px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.email-container:hover .email-box {
+    display: block;
+}
+
+
+/* right bar styling */
+.size-icon{
+    display: none;
+}
+
+.sizeadd {
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #e1e1e1;
+}
+
+.size-box {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+}
+
+.size-chart {
+    position: relative;
+    font-size: 28px;
+    line-height: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: Rubik;
+    color: #000;
+    text-align: center;
+    margin-top: 190px;
+    margin-bottom: 30px;
+    left: 2%;
+}
+
+/* shirt div styling */
+
+.page {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page img {
+    width: 419px;
+    height: 498px;
+}
+.drawingArea{
+    position: absolute; 
+    top: 80px; 
+    left: 190px; 
+    z-index: 0;
+}
+
+.footer {
+    padding: 70px 0;
+    margin-top: 70px;
+    border-top: 1px solid #E5E5E5;
+    background-color: whiteSmoke;
+}
+
+.color-preview {
+    border: 1px solid #CCC;
+    margin: 2px;
+    zoom: 1;
+    vertical-align: top;
+    display: inline-block;
+    cursor: pointer;
+    overflow: hidden;
+    width: 100px;
+    height: 40px;
+}
+
+.color-preview .favcolor {
+    width: 100%;
+}
+
+.rotate {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    /* filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5); */
+    -ms-transform: rotate(90deg);
+}
+
+.Arial {
+    font-family: "Arial";
+}
+
+.Helvetica {
+    font-family: "Helvetica";
+}
+
+.MyriadPro {
+    font-family: "Myriad Pro";
+}
+
+.Delicious {
+    font-family: "Delicious";
+}
+
+.Verdana {
+    font-family: "Verdana";
+}
+
+.Georgia {
+    font-family: "Georgia";
+}
+
+.Courier {
+    font-family: "Courier";
+}
+
+.ComicSansMS {
+    font-family: "Comic Sans MS";
+}
+
+.Impact {
+    font-family: "Impact";
+}
+
+.Monaco {
+    font-family: "Monaco";
+}
+
+.Optima {
+    font-family: "Optima";
+}
+
+.HoeflerText {
+    font-family: "Hoefler Text";
+}
+
+.Plaster {
+    font-family: "Plaster";
+}
+
+.Engagement {
+    font-family: "Engagement";
+}
+
+.signup {
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    right: 40px;
+    position: absolute;
+    top: 23%;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 7px 25px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button-container {
+    display: flex;
+    /* justify-content: space-around; */
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: -2px;
+}
+
+.action-buttons {
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 4px 22px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    margin-right: 10px;
+}
+
+.signup:hover {
+    background-color: #fff;
+    color: #000000;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.5);
+}
+
+.color-preview {
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    background-color: #000000;
+    border-radius: 20px;
+}
+
+#favcolor {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: transparent;
+    /* width: 100px; */
+    /* height: 100px; */
+    border: none;
+    cursor: pointer;
+}
+
+#favcolor::-webkit-color-swatch {
+    border-radius: 30px;
+    border-color: transparent;
+}
+
+#favcolor::-moz-color-swatch {
+    border-radius: 50%;
+    border-color: transparent;
+}
+
+.input-container {
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+    border: 1px solid #ccc;
+    margin-top: 25px;
+    margin-bottom: -20px;
+}
+
+.custom-container {
+    display: flex;
+}
+
+.custom-box {
+    width: 270px;
+    margin-right: 20px;
+}
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 10px;
+    border: 1px solid #e3e3e3;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    margin-right: 0;
+}
+
+.well blockquote {
+    border-color: #ddd;
+    border-color: rgba(0, 0, 0, 0.15);
+}
+
+.well-large {
+    padding: 24px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.well-small {
+    padding: 9px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+
+
+/* Color Variables */
+
+
+.choosefile {
+    color: black;
+    margin-left: 35%;
+}
+
+.choosefile::-webkit-file-upload-button {
+    background-color: #000000;
+    /* Set the background color of the file upload button */
+    color: white;
+    /* Set the text color of the file upload button */
+    border: none;
+    padding: 4px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 2px;
+}
+
+.choosefile::-ms-browse {
+    background-color: #000000;
+    /* Set the background color of the file upload button for Internet Explorer */
+    color: white;
+    /* Set the text color of the file upload button for Internet Explorer */
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.place-order {
+    background-color: #000000;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 280px;
+}
+
+.place-order:hover {
+    background-color: #D23323;
+}
+
+.table {
+    margin-left: 38px;
+}
+
+/* quantity button styling  */
+.quantity-container {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 3px;
+    width: 46.49px;
+    height: 21.38px;
+    margin-top: 10px;
+}
+
+.quantity-input {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 3px;
+    margin: 0 -22px 0 -22px;
+}
+
+.quantity-input button {
+    width: 18.6px;
+    height: 21.38px;
+    font-size: 16px;
+    border-radius: 3px;
+    font-weight: 500;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: #10111e;
+}
+
+.quantity-input button:hover {
+    background-color: #d23323;
+    color: #fff;
+}
+
+.quantity-input input[type="number"] {
+    flex: 1;
+    height: 100%;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    border-radius: 0;
+    background-color: transparent;
+    box-shadow: none;
+    padding: 0;
+}
+
+
+.quantity-input input[type="number"]::-webkit-inner-spin-button,
+.quantity-input input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.quantity-input input[type="number"]::-moz-outer-spin-button {
+    -moz-appearance: none;
+    margin: 0;
+}
+
+.place-order {
+    position: relative;
+    border-radius: 43px;
+    background-color: #fe4536;
+    width: 200px;
+    height: 36px;
+    left: 35px;
+}
+
+.place-order p {
+    position: relative;
+    font-size: 18px;
+    line-height: 14px;
+    font-weight: 500;
+    font-family: Rubik;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+.sidebar .logo img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+/* size chart pop up  */
+
+.modal-content {
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.rotate {
+    transform: rotate(180deg);
+}
